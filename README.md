@@ -1,3 +1,3 @@
 # 3Dbook
 3Dbook 
-just a basic model where pages are turning when you move the cursor over it
+just a basic model where pages are moving when you move the cursor over it
